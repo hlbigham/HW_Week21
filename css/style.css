@@ -1,0 +1,56 @@
+.jumbotron{
+    margin-bottom: 0px;
+}
+
+.navbar{
+    justify-content: right;
+}
+
+.navbar-collapse{
+    justify-content: center;
+}
+
+.navbar-nav .nav-link {
+    text-align: right;
+}
+
+.nav-link {
+    padding: 0.5rem 3rem !important;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.whiteText{
+    color:white;
+}
+
+.marginLR-0{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.coverLeft{
+    height: 100%;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.coverRight{
+    height: 100%;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.recommendCard{
+    max-width: 300px;
+    border-radius: 15px;
+}
+
+.recommendImg{
+    height: 100%;
+    border-radius: 15px;
+}
+
+.active{
+    text-decoration: underline;
+}
