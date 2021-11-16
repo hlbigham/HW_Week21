@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .jumbotron{
     margin-bottom: 0px;
 }
@@ -19,7 +22,7 @@
 }
 
 .footer {
-    background-color: #000000;
+    background-color: #3a3a3a;
 }
 
 .whiteText{
@@ -51,6 +54,16 @@
     border-radius: 15px;
 }
 
+.startWritingImg{
+    border-radius: 15px;
+}
+
 .active{
     text-decoration: underline;
 }
+
+.smIcon{
+    height: 30px;
+    width: 30px;
+}
+
