@@ -35,13 +35,15 @@ html{
 }
 
 .coverLeft{
+    max-height: 202px;
     height: 100%;
-    border-radius: 5px 0px 0px 5px;
+    border-radius: 2px 0px 0px 2px;
 }
 
 .coverRight{
+    max-height: 202px;
     height: 100%;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0px 2px 2px 0px;
 }
 
 .recommendCard{
@@ -50,6 +52,7 @@ html{
 }
 
 .recommendImg{
+    max-height: 480px;
     height: 100%;
     border-radius: 15px;
 }
