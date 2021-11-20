@@ -108,7 +108,7 @@ html{
 
 .flip-card-back {
     transform: rotateY(180deg);
-    border-radius: 25px;
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
